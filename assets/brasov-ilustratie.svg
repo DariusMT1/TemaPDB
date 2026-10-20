@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 500" role="img" aria-labelledby="title desc">
+  <title id="title">Oraș la poalele munților</title>
+  <desc id="desc">Ilustrație cu munți verzi, cer senin și case colorate.</desc>
+  <rect width="880" height="500" fill="#dce8df"/>
+  <circle cx="703" cy="105" r="49" fill="#e5ad68"/>
+  <path d="M0 290 165 90l142 171L452 65l208 245 91-104 129 115v179H0Z" fill="#638477"/>
+  <path d="m165 90 70 84-46-20-24 37-34-40Zm287-25 88 105-58-29-32 26-42-42Zm299 166 58-67 71 80-44-21-22 20Z" fill="#f7f4ec"/>
+  <path d="M0 317q188-72 361-4t519-12v199H0Z" fill="#779878"/>
+  <path d="M0 379q198-49 392 8t488-13v126H0Z" fill="#476f58"/>
+  <g stroke="#fffefa" stroke-width="5" stroke-linejoin="round">
+    <path d="M84 341h121v113H84z" fill="#d9875c"/>
+    <path d="m72 344 72-63 73 63Z" fill="#9d5842"/>
+    <path d="M117 391h26v63h-26z" fill="#f2d59d"/>
+    <path d="M263 326h139v128H263z" fill="#e9c67e"/>
+    <path d="m249 330 83-70 84 70Z" fill="#a55e48"/>
+    <path d="M315 389h31v65h-31z" fill="#6d8773"/>
+    <path d="M467 354h109v100H467z" fill="#e2a47c"/>
+    <path d="m455 357 66-58 68 58Z" fill="#735348"/>
+    <path d="M506 397h27v57h-27z" fill="#f4dda8"/>
+    <path d="M631 332h145v122H631z" fill="#ead9bb"/>
+    <path d="m616 336 88-73 87 73Z" fill="#b66c4c"/>
+    <path d="M690 387h29v67h-29z" fill="#668175"/>
+  </g>
+  <g fill="#355b45">
+    <path d="m33 454 27-93 28 93Zm744 0 29-106 31 106Zm-43 0 21-76 22 76Z"/>
+  </g>
+</svg>
